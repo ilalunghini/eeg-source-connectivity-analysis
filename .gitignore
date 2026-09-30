@@ -1,0 +1,24 @@
+# Operating-system files
+.DS_Store
+
+# Sensitive data, licensed resources, outputs, and private code
+data/
+resources/
+outputs/
+results/
+figures/
+src/
+*.edf
+*.set
+*.fdt
+*.fif
+*.mat
+*.nii
+*.nii.gz
+*.gii
+*.surf.gii
+*.node
+*.edge
+*.png
+*.jpg
+*.pdf
