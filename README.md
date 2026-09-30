@@ -6,6 +6,10 @@ For a fuller description of the project, see the [project overview](https://ilal
 
 Read the [methodological pipeline](METHODOLOGY.md) for the complete sequence of analysis steps and selected MATLAB examples.
 
+## Project context
+
+This project was carried out as part of the course *Analisi e Modellazione dei Sistemi Biologici*. The analysis code was co-written by the author and one fellow student.
+
 ## Availability
 
 No EEG recordings, MRI or atlas resources, cortical surfaces, derived outputs, figures, or complete analysis code are included because they may contain sensitive data. The methodology contains selected illustrative code excerpts.
