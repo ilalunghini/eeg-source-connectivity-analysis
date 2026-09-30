@@ -8,8 +8,7 @@ Read the [methodological pipeline](METHODOLOGY.md) for the complete sequence of 
 
 ## Project context
 
-This project was carried out as part of the course *Analisi e Modellazione dei Sistemi Biologici*. The analysis code was co-written by the author and one fellow student.
-
+This project was carried out as part of the course *Analisi e Modellazione dei Sistemi Biologici*. 
 ## Availability
 
 No EEG recordings, MRI or atlas resources, cortical surfaces, derived outputs, figures, or complete analysis code are included because they may contain sensitive data. The methodology contains selected illustrative code excerpts.
